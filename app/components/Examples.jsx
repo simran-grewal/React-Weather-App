@@ -11,7 +11,7 @@ return (
             <Link to = '/?location=Chandigarh'>Chandigarh</Link>
           </li>
           <li>
-            <Link to = '/?location = Hoshiarpur, Punjab, India'>Hoshiarpur, Punjab, Inida</Link>
+            <Link to = '/?location=Hoshiarpur,Punjab,India'>Hoshiarpur, Punjab, Inida</Link>
           </li>
         </ol>
 
